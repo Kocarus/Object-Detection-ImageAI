@@ -8,7 +8,7 @@
 6. Author of ImageAI: https://github.com/OlafenwaMoses/ImageAI
 
 # More info
-- If you run this on CPU, you can only test with a very short video. Trust me, it tooks me 4 hrs to proceed a 10s video on my potato one. Otherwise, just buy GPU :grin:
+- If you run this on CPU, you can only test with a very short video. Trust me, it took me 4 hrs to proceed a 10s video on my potato one. Otherwise, just buy GPU :grin:
 - Video source: [France vs Croatia WC 2018 Final](https://www.youtube.com/watch?v=GrsEAvRerTg)
 
 # Result
